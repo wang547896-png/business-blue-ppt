@@ -1,0 +1,4 @@
+interface:
+  display_name: "商务蓝PPT"
+  short_description: "基于商务蓝模板制作汇报型演示文稿，统一微软雅黑与三档字号"
+  default_prompt: "使用 $business-blue-ppt 按商务蓝模板风格制作演示文稿。"
